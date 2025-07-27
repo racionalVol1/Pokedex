@@ -1,4 +1,4 @@
-# Pokédex Simples
+# Pokédex
 
 ## 📖 Sobre o Projeto
 Este projeto é uma Pokédex desenvolvida para praticar e demonstrar o consumo de APIs externas. A aplicação se conecta à PokéAPI, uma fonte rica de dados sobre o universo Pokémon, para buscar e exibir informações detalhadas sobre os monstros de bolso.
